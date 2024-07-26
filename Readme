@@ -67,7 +67,7 @@ mvn clean install
 mvn spring-boot:run
 
 4 API Endpoints
-For detailed information on the API endpoints, including sample requests and responses, please refer to the API Documentation file in this repository.
+For detailed information on the API endpoints, including sample requests and responses, please refer to the API Documentation file in this repository
 
 
 API DOCUMENTATION: https://documenter.getpostman.com/view/33617257/2sA3kYhzPb
